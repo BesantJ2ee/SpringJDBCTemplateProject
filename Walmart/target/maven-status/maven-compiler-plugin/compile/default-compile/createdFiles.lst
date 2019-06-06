@@ -1,0 +1,11 @@
+com\Movie\BookMyShow\ServiceChecking.class
+com\Movie\BookMyShow\SetStudentProperty.class
+com\Movie\BookMyShow\UserDAO.class
+com\Movie\modelObjects\StudentUser.class
+com\Movie\BookMyShow\MovieSelectionController.class
+com\Movie\BookMyShow\StudentDao$1.class
+com\Movie\BookMyShow\RegistrationController.class
+com\MovieService\AddLogic.class
+com\Movie\modelObjects\ModelClasss.class
+com\Movie\BookMyShow\StudentDao.class
+com\Movie\BookMyShow\UserDAOImpl.class
